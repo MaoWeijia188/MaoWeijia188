@@ -1,7 +1,7 @@
 # 毛维嘉 — Java 后端开发实习简历
 
 **求职意向：Java 后端开发实习生（杭州 / 上海 · 可即时到岗）**
-电话：190-5723-0518 | 邮箱：k01050470378@gmail.com | GitHub：github.com/MaoWeijia-JavaLearner
+电话：190-5723-0518 | 邮箱：maoweijia188 | GitHub：github.com/MaoWeijia188
 
 ---
 
