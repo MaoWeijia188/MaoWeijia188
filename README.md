@@ -1,16 +1,41 @@
-## Hi there 👋
+# 毛维嘉 — Java 后端开发实习简历
 
-<!--
-**MaoWeijia188/MaoWeijia188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**求职意向：Java 后端开发实习生（杭州 / 上海 · 可即时到岗）**
+电话：190-5723-0518 | 邮箱：k01050470378@gmail.com | GitHub：github.com/MaoWeijia-JavaLearner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 教育背景
+
+**杭州电子科技大学** · 软件工程 · 本科在读（大二）  `2025.09 – 2029.06`
+
+- 主修课程：Java 程序设计（校方核心专业课）
+- 英语水平：CET-6 已通过（CET-4 541 分）
+- 正在按 12 天结构化路线系统自学 SQL 与数据库开发
+
+## 专业技能
+
+- **编程语言**：Java——掌握面向对象设计（封装、继承、多态）与集合框架（List / Map / Set），能独立编写结构完整的控制台与分层应用
+- **后端框架**：了解 Spring Boot / MyBatis 基本使用，理解 MVC 分层架构
+- **数据库**：MySQL——掌握基础 SQL 增删改查、多表查询，持续深入学习中
+- **开发工具**：Git 版本控制（分支管理、提交与回滚）；熟练使用 Cursor 等 AI 辅助编程工具
+- **英语能力**：CET-4 541 / CET-6 已通过，可流畅阅读英文技术文档
+
+## 项目经历
+
+### 学生信息管理系统（个人项目 · 独立开发） `2026.07`
+
+- 基于 Java 开发的学生信息管理应用，实现增、删、改、查与条件筛选等核心功能
+- 运用面向对象思想进行实体建模与分层设计（实体类 / 业务逻辑 / 数据访问）
+- 正在迭代升级：接入 MySQL 数据持久化，计划迁移至 Spring Boot 三层架构
+
+### 文字格斗游戏（个人项目 · 独立开发） `2026.07`
+
+- 基于 Java 控制台的回合制文字格斗游戏，涵盖角色属性、技能伤害计算、回合流转逻辑
+- 综合运用继承、封装、多态设计角色与技能体系
+
+## 实习到岗与自驱力
+
+- 可实习时间：**每周 4–5 天到岗，可持续 2–3 个月**，可即时入职
+- 长期方向明确：Java 后端 / AI 应用开发，正按系统路线推进技能栈
+- 学习能力强：有自驱完成完整学习计划的习惯，无保留升级项目的意愿
